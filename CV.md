@@ -8,8 +8,7 @@ A01741757@itesm.mx
 
 ## Perfil profesional
  
-
- 
+ Estudiante de Tecnologías Computacionales con experiencia en programación competitiva en c++ básico. 
  
 
 ## Experiencia 
@@ -28,9 +27,9 @@ Instituto Tecnologico y de Estudios Superiores de Monterrey
 
 ## Habilidades
  
-* Conocimiento de programación básca en y OPP en c++
+* Conocimiento de programación básca y OPP en c++
 
-* Conocimiento de programación básca en y OPP en Python
+* Conocimiento de programación básca y OPP en Python
 
 * Conocimiento de MATLAB 
 
