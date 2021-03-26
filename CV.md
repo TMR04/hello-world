@@ -9,12 +9,13 @@ A01741757@itesm.mx
 ## Perfil profesional
  
 
-\[Descripción general de mi experiencia programando\]
+ 
  
 
 ## Experiencia 
  
- 
+ * Participación en la estapa nacional de la Olimpiada Méxicana de Informatiaca (C++) (Nivel preparatoria)
+ * Uso de MATLAB para el analisis de experimentos y fenomenos fisicos
 
 ## Educación
  
@@ -27,10 +28,10 @@ Instituto Tecnologico y de Estudios Superiores de Monterrey
 
 ## Habilidades
  
-Conocimiento de programación básca en y OPP en c++
+* Conocimiento de programación básca en y OPP en c++
 
-Conocimiento de programación básca en y OPP en Python
+* Conocimiento de programación básca en y OPP en Python
 
-Conocimiento de MATLAB 
+* Conocimiento de MATLAB 
 
-Nociones básicas de R
+* Nociones básicas de R
